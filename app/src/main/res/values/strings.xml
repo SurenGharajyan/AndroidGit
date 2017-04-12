@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidGitHubProj</string>
+    <string name="this_have_been_commit">This have been commit</string>
+</resources>
